@@ -14,7 +14,6 @@ Welcome to the **Book CRUD API**! This is a simple yet powerful RESTful API that
 
 - **Node.js** - JavaScript runtime
 - **Hapi.js** - Web framework for building APIs
-- **Joi** - Data validation
 - **Nodemon** - For auto-restarting during development
 
 ## 📦 Installation
